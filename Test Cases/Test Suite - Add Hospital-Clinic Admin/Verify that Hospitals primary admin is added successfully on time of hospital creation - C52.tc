@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>C52</description>
+   <name>Verify that Hospitals primary admin is added successfully on time of hospital creation - C52</name>
+   <tag>C52</tag>
+   <comment></comment>
+   <testCaseGuid>a88f57ba-bbc5-4da9-a627-ccb2e0faf540</testCaseGuid>
+</TestCaseEntity>

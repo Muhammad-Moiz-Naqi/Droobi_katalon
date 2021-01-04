@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin is able to see Health Professionals page from Side Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cada749b-7cf7-4d0f-8e9d-8f7a07e2c099</testCaseGuid>
+</TestCaseEntity>

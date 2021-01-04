@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin is able to sort Users in Asc and Desc order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36ba9cb8-c287-4d54-aeca-1e75b5c03127</testCaseGuid>
+</TestCaseEntity>

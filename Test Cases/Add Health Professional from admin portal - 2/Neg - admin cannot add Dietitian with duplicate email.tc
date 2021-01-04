@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Neg - admin cannot add Dietitian with duplicate email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe9c2849-acf6-4fdf-a30a-074ff333937d</testCaseGuid>
+</TestCaseEntity>

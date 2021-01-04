@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>C422</description>
+   <name>Verify that health professional type , email address and capacity fields should be validated as required fields - C422</name>
+   <tag>C422</tag>
+   <comment></comment>
+   <testCaseGuid>f8725dc1-58dc-4b74-a9c0-75883a4742e0</testCaseGuid>
+</TestCaseEntity>

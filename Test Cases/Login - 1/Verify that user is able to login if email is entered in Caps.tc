@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that user is able to login if email is entered in Caps</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84712f82-1cb0-4fa2-a766-7b1ce4eeef7d</testCaseGuid>
+   <variable>
+      <defaultValue>'DROOBI.ADMEN@GMAIL.COM'</defaultValue>
+      <description></description>
+      <id>fb5d078a-d33a-4fa8-a45d-28a4ab4e956d</id>
+      <masked>false</masked>
+      <name>user_name</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Password</defaultValue>
+      <description></description>
+      <id>1d996887-dd44-4c4b-98d3-d0be6dbaee42</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>979da30b-e8b0-4b27-ac13-f4a414657e26</id>
+      <masked>false</masked>
+      <name>Url_fetched</name>
+   </variable>
+</TestCaseEntity>

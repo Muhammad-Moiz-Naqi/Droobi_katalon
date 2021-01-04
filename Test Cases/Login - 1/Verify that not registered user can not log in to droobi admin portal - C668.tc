@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that not registered user can not log in to droobi admin portal - C668</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a20e5065-e0ef-4d02-8400-dc53fa17fdac</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.URL</defaultValue>
+      <description></description>
+      <id>b5e20a2d-6614-4216-bf32-fa7f31f88310</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Username</defaultValue>
+      <description></description>
+      <id>b53d2449-7d90-44a2-aa63-f9cf672f6ef9</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Password</defaultValue>
+      <description></description>
+      <id>e8b7b7f3-485b-4793-967e-1efa064ff1ea</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

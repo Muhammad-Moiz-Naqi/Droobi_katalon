@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Health Coach from Admin Portal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb0113aa-d918-4026-b075-2be2c67c4b2c</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.Username</defaultValue>
+      <description></description>
+      <id>e5b63002-4646-4132-9fd7-bf53e6ea834c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Password</defaultValue>
+      <description></description>
+      <id>b0e05c7c-02e6-44cd-8a98-ed013bfb2886</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.URL</defaultValue>
+      <description></description>
+      <id>c925625b-7659-4389-ab49-812dac930714</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a14aa735-f43a-45c8-80c5-637cf7d468fa</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>

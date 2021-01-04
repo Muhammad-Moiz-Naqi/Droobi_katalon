@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>C419</description>
+   <name>Verify that droobi admin can add dietitian from New Health Professional page - C419</name>
+   <tag>C419</tag>
+   <comment></comment>
+   <testCaseGuid>1205f9f8-7d11-47ca-a42d-92a821c0fb8a</testCaseGuid>
+</TestCaseEntity>

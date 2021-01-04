@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>C40</description>
+   <name>Verify that hospital is added successfully by Droobi Admin</name>
+   <tag>C40</tag>
+   <comment></comment>
+   <testCaseGuid>31eaee0d-eaf1-4dd8-aedd-df9e9a7e77cb</testCaseGuid>
+   <variable>
+      <defaultValue>'droobi.admen@gmail.com'</defaultValue>
+      <description></description>
+      <id>9e8d33af-46e4-4387-966f-4384182fe6d5</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'/5S6MFFLcE4ZOg6V2jhgMg=='</defaultValue>
+      <description></description>
+      <id>e0b7de9d-f491-4f17-99e0-d8a5a59b9954</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Hospital'</defaultValue>
+      <description></description>
+      <id>4f4a67ad-fd05-4f7c-959f-529e75245892</id>
+      <masked>false</masked>
+      <name>Hospital_Name</name>
+   </variable>
+</TestCaseEntity>

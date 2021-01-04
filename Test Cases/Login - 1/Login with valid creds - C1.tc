@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with valid creds - C1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>146d6054-9aa6-4162-a49a-3b6ee60b5dd6</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.Username</defaultValue>
+      <description></description>
+      <id>1f91859b-d702-407c-b5e9-635c4a781c31</id>
+      <masked>false</masked>
+      <name>user_name</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Password</defaultValue>
+      <description></description>
+      <id>3aea957b-94b1-4bdb-b000-c85ebac063cc</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.URL</defaultValue>
+      <description></description>
+      <id>e1238658-a9de-492b-8068-555168aa45b0</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that not registered user can not log in to droobi admin portal - C668</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2e67d13-75eb-4a93-ab75-f2fc2efbe54a</testCaseGuid>
+</TestCaseEntity>

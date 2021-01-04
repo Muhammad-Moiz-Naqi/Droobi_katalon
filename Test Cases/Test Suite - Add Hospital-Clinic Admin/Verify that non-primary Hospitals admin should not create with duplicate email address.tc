@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>C516</description>
+   <name>Verify that non-primary Hospitals admin should not create with duplicate email address</name>
+   <tag>C516</tag>
+   <comment></comment>
+   <testCaseGuid>c490c4fd-e04d-4be0-b4c8-fee537ed1495</testCaseGuid>
+</TestCaseEntity>

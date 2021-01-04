@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Neg - admin cannot add Health Coach with duplicate email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91d835c3-c70c-460d-a1e0-b375a9dd284a</testCaseGuid>
+</TestCaseEntity>

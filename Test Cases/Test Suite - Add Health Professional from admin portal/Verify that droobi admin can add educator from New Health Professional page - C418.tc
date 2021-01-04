@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>C418</description>
+   <name>Verify that droobi admin can add educator from New Health Professional page - C418</name>
+   <tag>C418</tag>
+   <comment></comment>
+   <testCaseGuid>63e6852b-3843-4b3c-8ce5-19cfd7f5a07a</testCaseGuid>
+</TestCaseEntity>

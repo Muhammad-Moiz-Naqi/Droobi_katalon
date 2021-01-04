@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin is able to see User(Patients) page from Side Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52534b66-89d7-43c1-b84a-0151f183a1b5</testCaseGuid>
+</TestCaseEntity>

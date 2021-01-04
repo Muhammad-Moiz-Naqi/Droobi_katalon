@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that hospital admin adds educator successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc861695-8b71-477b-8464-1c8d911434bc</testCaseGuid>
+</TestCaseEntity>

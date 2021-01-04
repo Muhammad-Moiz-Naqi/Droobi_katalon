@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>C54</description>
+   <name>Verify that multiple admins should be added successfully from edit hospital page</name>
+   <tag>C54</tag>
+   <comment></comment>
+   <testCaseGuid>056ef221-82a1-48ae-b063-2e87d01f550c</testCaseGuid>
+</TestCaseEntity>

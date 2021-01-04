@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>C53</description>
+   <name>Verify that Multiple admins is added successfully on time of hospital creation</name>
+   <tag>C53</tag>
+   <comment></comment>
+   <testCaseGuid>3a95306d-3cc1-4410-836a-2639d68225d8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f209d25a-eac5-4009-bae1-f0bd2ebcee83</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>

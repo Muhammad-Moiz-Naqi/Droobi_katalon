@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin is able to see Users(Patients) page from Switch Bar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5beb60da-3b7a-46ec-a06d-2753ffa70229</testCaseGuid>
+</TestCaseEntity>
