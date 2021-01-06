@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_fail_invalid_username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f62ea9a-6e05-4707-8a94-cc585791c03a</testCaseGuid>
+   <variable>
+      <defaultValue>'test@gmail.com'</defaultValue>
+      <description></description>
+      <id>9f806c99-1972-441e-a990-3c4899457775</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PaitentsList_Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>789a2870-1334-4a64-a1a6-f856f2d47e1e</testCaseGuid>
+   <variable>
+      <defaultValue>'aleksander'</defaultValue>
+      <description></description>
+      <id>716c8951-c829-4f05-92ea-e084c66d7d21</id>
+      <masked>false</masked>
+      <name>patient_name</name>
+   </variable>
+</TestCaseEntity>

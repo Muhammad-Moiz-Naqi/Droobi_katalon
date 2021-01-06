@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SignOut</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65468a55-7a4d-4408-a3a5-9dc64fc64eb2</testCaseGuid>
+   <variable>
+      <defaultValue>'Dr. Zia'</defaultValue>
+      <description></description>
+      <id>e0096194-df01-4767-b5bf-65cd00dc471b</id>
+      <masked>false</masked>
+      <name>professional</name>
+   </variable>
+   <variable>
+      <defaultValue>'Zia Haider'</defaultValue>
+      <description></description>
+      <id>73b8017a-272e-4e85-ae71-2f6c0cba5d22</id>
+      <masked>false</masked>
+      <name>update_name</name>
+   </variable>
+</TestCaseEntity>

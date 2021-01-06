@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HealthProfessional_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9edf1ec-dbce-4a4c-9da5-4520c3b3122c</testCaseGuid>
+   <variable>
+      <defaultValue>'Dr. Zia'</defaultValue>
+      <description></description>
+      <id>ae7ba48e-1743-42cb-bc25-c87e0a4c8c5f</id>
+      <masked>false</masked>
+      <name>professional</name>
+   </variable>
+   <variable>
+      <defaultValue>'Zia Haider'</defaultValue>
+      <description></description>
+      <id>a0256a11-a1b1-4989-bb17-3950bc761a90</id>
+      <masked>false</masked>
+      <name>update_name</name>
+   </variable>
+</TestCaseEntity>

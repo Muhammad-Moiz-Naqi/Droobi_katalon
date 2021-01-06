@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dashboard_Edit_Professional_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5b2a483-8f99-4707-a8ea-0aa1ad6f4154</testCaseGuid>
+   <variable>
+      <defaultValue>'Zia Haider'</defaultValue>
+      <description></description>
+      <id>ff73ca1a-6572-4030-9e3b-df480a0be716</id>
+      <masked>false</masked>
+      <name>professional</name>
+   </variable>
+   <variable>
+      <defaultValue>'zia.haider@gmail.com'</defaultValue>
+      <description></description>
+      <id>3c95042d-0c8d-4a2f-ac35-01ff3a4c5bb5</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
