@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PaitentsList_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>567cccf8-c5d6-4172-98ff-a3bc401a083f</testCaseGuid>
+   <variable>
+      <defaultValue>'Dr. Zia'</defaultValue>
+      <description></description>
+      <id>e6eb5b92-3267-4f43-a26d-335f5c536310</id>
+      <masked>false</masked>
+      <name>professional</name>
+   </variable>
+   <variable>
+      <defaultValue>'Zia Haider'</defaultValue>
+      <description></description>
+      <id>d1aa5ba4-6675-4f03-8ce2-19389cfee7b5</id>
+      <masked>false</masked>
+      <name>update_name</name>
+   </variable>
+</TestCaseEntity>

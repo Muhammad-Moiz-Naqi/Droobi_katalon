@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dashboard_AddHealthCoach</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52347db0-f1c3-4228-b837-d0c7ef15f291</testCaseGuid>
+   <variable>
+      <defaultValue>'Zia Haider'</defaultValue>
+      <description></description>
+      <id>26da4270-299f-45c8-b8af-cf1383f3912e</id>
+      <masked>false</masked>
+      <name>professional</name>
+   </variable>
+   <variable>
+      <defaultValue>'zia.haider@gmail.com'</defaultValue>
+      <description></description>
+      <id>b55302ad-67ae-4d2d-bd12-1a9af6265884</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
