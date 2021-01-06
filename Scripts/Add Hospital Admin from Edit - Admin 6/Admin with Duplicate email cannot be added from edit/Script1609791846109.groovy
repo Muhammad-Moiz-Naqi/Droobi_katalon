@@ -15,4 +15,24 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.setText(findTestObject('Object Repository/Add multiple admins/input_Admin_username'), 'droobi.admen@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Add multiple admins/input_Admin_password'), '/5S6MFFLcE4ZOg6V2jhgMg==')
+
+WebUI.click(findTestObject('Object Repository/Add multiple admins/button_Continue'))
+
+WebUI.click(findTestObject('Object Repository/Add multiple admins/a_Edit'))
+
+WebUI.click(findTestObject('Object Repository/Add multiple admins/button_ Add Another Admin'))
+
+WebUI.setText(findTestObject('Object Repository/Add multiple admins/input_Email Address_email0'), GlobalVariable.Dup_email)
+
+WebUI.verifyElementText(findTestObject('Add Hospital (admin) Validation/span_Sorry, there is already a Hospital Admin with that email address'), 
+    'Sorry, there is already a Hospital Admin with that email.')
+
+WebUI.closeBrowser()
 

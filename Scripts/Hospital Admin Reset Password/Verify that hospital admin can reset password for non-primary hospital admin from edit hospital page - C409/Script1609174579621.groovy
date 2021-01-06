@@ -17,17 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://test-admin.droobihealth.net/#/')
-
-WebUI.setText(findTestObject('Object Repository/hospital admin reset password/Page_Droobi Admin Portal/input_Admin_username (1)'), 
-    'droobi.admen@gmail.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/hospital admin reset password/Page_Droobi Admin Portal/input_Admin_password (1)'), 
-    '/5S6MFFLcE4ZOg6V2jhgMg==')
-
-WebUI.click(findTestObject('Object Repository/hospital admin reset password/Page_Droobi Admin Portal/button_Continue (1)'))
+WebUI.callTestCase(findTestCase('Login - 1/Login with valid creds - C1'), [('user_name') : GlobalVariable.Username, ('password') : GlobalVariable.Password
+        , ('url') : GlobalVariable.URL], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/hospital admin reset password/Page_Droobi Admin Portal/a_Edit (1)'))
 
