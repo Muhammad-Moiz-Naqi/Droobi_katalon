@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HealthProfessional_Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b402a027-fe96-4d99-a311-a06a1bb78b3f</testCaseGuid>
+   <variable>
+      <defaultValue>'Dr. Zia'</defaultValue>
+      <description></description>
+      <id>09771c70-b12a-47a2-9413-74a4d82a59ba</id>
+      <masked>false</masked>
+      <name>professional</name>
+   </variable>
+</TestCaseEntity>

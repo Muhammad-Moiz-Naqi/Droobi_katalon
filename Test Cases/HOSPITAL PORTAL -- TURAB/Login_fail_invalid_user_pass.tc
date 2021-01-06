@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_fail_invalid_user_pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b11ea363-6518-4786-9f7f-1dfe8abc059f</testCaseGuid>
+   <variable>
+      <defaultValue>'test@gmai.com'</defaultValue>
+      <description></description>
+      <id>a818aa2a-1920-4b80-8c81-bce9b5399b83</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>'testuser'</defaultValue>
+      <description></description>
+      <id>0eb477f0-7235-4a97-9ae2-161fb80c8c4a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
