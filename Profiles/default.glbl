@@ -69,4 +69,29 @@
       <initValue>''</initValue>
       <name>G_edit_name</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'droobi.admen@gmail.com'</initValue>
+      <name>Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Test Hospital'</initValue>
+      <name>hosp_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/5S6MFFLcE4ZOg6V2jhgMg=='</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://uat-admin.droobihealth.net/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'moizaslamnaqi@gmail.com'</initValue>
+      <name>Dup_Email</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
