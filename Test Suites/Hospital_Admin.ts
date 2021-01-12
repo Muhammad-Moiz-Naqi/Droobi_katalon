@@ -15,7 +15,7 @@
       <guid>f297460b-3dc0-4934-b784-8084b0d41aff</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Login_fail_invalid_password</testCaseId>
+      <testCaseId>Test Cases/Login_fail_invalid_password</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -33,7 +33,7 @@
       <guid>75072872-de70-4ec2-826f-aa7dac5b7ee4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Login_fail_invalid_user_pass</testCaseId>
+      <testCaseId>Test Cases/Login_fail_invalid_user_pass</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -51,7 +51,7 @@
       <guid>d07a4a67-89f8-4f49-bde5-03149e7cc19c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Login_fail_invalid_username</testCaseId>
+      <testCaseId>Test Cases/Login_fail_invalid_username</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -63,31 +63,31 @@
       <guid>fffbdddc-6533-45da-8d13-d82550dbce1b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Login_pass</testCaseId>
+      <testCaseId>Test Cases/Login_pass</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>64d172c6-3f47-4579-95e4-224b2a70b67a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Dashboard_SearchProfessional</testCaseId>
+      <testCaseId>Test Cases/Dashboard_SearchProfessional</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>79962854-caed-4003-a6ce-2d369c51d70a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Dashboard_SearchPatient</testCaseId>
+      <testCaseId>Test Cases/Dashboard_SearchPatient</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>17be0199-87ea-4b4e-acec-b18140a8e2a9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Dashboad_ViewPatient</testCaseId>
+      <testCaseId>Test Cases/Dashboad_ViewPatient</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>179dc220-fd2f-4132-9a36-53071b2d56ca</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Dashboad_EditPatient</testCaseId>
+      <testCaseId>Test Cases/Dashboad_EditPatient_button</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -105,19 +105,25 @@
       <guid>ee256296-055e-4101-a38e-b4d8ce2bce66</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Dashboard_AddDoctor</testCaseId>
+      <testCaseId>Test Cases/Dashboard_AddDoctor</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4360c832-6e63-4346-8fc8-add94e152d6e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Dashboard_Edit_Doctor_email</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>34b8ba88-51c1-40a3-851f-532c322f5ba6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Dashboard_Edit_Doctor_Name</testCaseId>
+      <testCaseId>Test Cases/Dashboard_Edit_Doctor_Name</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>b1f91fbb-3f07-4d4e-b30b-4ea2fb8a18ed</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Dashboard_AddEducator</testCaseId>
+      <testCaseId>Test Cases/Dashboard_AddEducator</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -132,28 +138,40 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
+      <guid>4a3990bd-2217-4e7d-8313-47696c1786f9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Dashboard_Edit_Educator_email</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
       <guid>d69af9bd-ed15-42a8-ab34-f16f5139758f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Dashboard_Edit_Educator_Name</testCaseId>
+      <testCaseId>Test Cases/Dashboard_Edit_Educator_Name</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>3ac1af02-0a60-4659-8730-b5db7157e290</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Dashboard_AddDietition</testCaseId>
+      <testCaseId>Test Cases/Dashboard_AddDietition</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fd7ec24d-ac38-487d-813c-62e92c9a5f3e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Dashboard_Edit_Dietition_email</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>19c1ab9f-9b79-4390-84db-2c1a6e0a28bb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Dashboard_Edit_Dietition_Name</testCaseId>
+      <testCaseId>Test Cases/Dashboard_Edit_Dietition_Name</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>c0d37ac6-fa95-4c40-b556-559f65105be6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Dashboard_AddHealthCoach</testCaseId>
+      <testCaseId>Test Cases/Dashboard_AddHealthCoach</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -168,16 +186,22 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
+      <guid>785ebb5a-30c2-4452-b3b8-bc12d35ce2f6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Dashboard_Edit_HealthCoach_Email</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
       <guid>6034f225-1c2b-4513-b8f2-2321fad8277e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Dashboard_Edit_HealthCoach_Name</testCaseId>
+      <testCaseId>Test Cases/Dashboard_Edit_HealthCoach_Name</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>f1d24a5e-22e3-4e8d-befc-5b60fc0392a4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/PaitentsList_Search</testCaseId>
+      <testCaseId>Test Cases/PaitentsList_Search</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -189,7 +213,7 @@
       <guid>96337205-5a1e-4081-a06e-d802e3c8d9dc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/Search</testCaseId>
+      <testCaseId>Test Cases/Search</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -207,7 +231,7 @@
       <guid>9bc132ad-b8f0-431f-8f4c-cfbb6728d18a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/HealthProfessional_Search</testCaseId>
+      <testCaseId>Test Cases/HealthProfessional_Search</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -219,7 +243,7 @@
       <guid>e4e6f085-541a-4272-a2a5-278268760553</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/PaitentsList_Count</testCaseId>
+      <testCaseId>Test Cases/PaitentsList_Count</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -237,7 +261,7 @@
       <guid>b5da735a-8919-472f-8b5f-1aec02bbe07a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/MyClinic_ExpandAllBtn_</testCaseId>
+      <testCaseId>Test Cases/MyClinic_ExpandAllBtn_</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -255,7 +279,7 @@
       <guid>e5d91f59-054c-4310-82ba-857e4304db74</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/HealthProfessional_Count</testCaseId>
+      <testCaseId>Test Cases/HealthProfessional_Count</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -273,13 +297,181 @@
       <guid>f9580331-eb99-4f67-b45e-dde9f4b6014f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/PatientsPending_Count</testCaseId>
+      <testCaseId>Test Cases/PatientsPending_Count</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a81c95e5-66fb-4d46-b8a3-38dcdd4c1f3f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HealthProfessional_AddDoctor</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5ed839b6-aed6-44eb-839d-d26b73de33b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>01a1b59d-0fa9-40b2-a44f-bde65cc2d9ab</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>96b70ebd-9782-489b-b8d5-2697455ffec6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HealthProfessional_Edit_Doctor_Email</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>13a55286-6895-4f70-887c-21833ac32db3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HealthProfessional_Edit_DoctorName</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7b4512f5-57ae-42c8-b8ce-9e670f584d7f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>edaff352-4e81-4199-abb6-17973916243c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2a5d158d-71c5-41c6-826b-ec2b180fc37f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HealthProfessional_AddEducator</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>294e5258-515e-44df-9198-7270373a8760</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dec5d15b-84f4-48b2-b765-67015713d5e1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>de59e58a-23b0-4872-b3b1-209710604ba4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HealthProfessional_Edit_Educator_Email</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b8104c37-754b-4074-b6dc-66fe83424e59</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HealthProfessional_Edit_EducatorName</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d0fffc48-ed26-45af-b93a-215fe31cc188</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1267ee40-cdab-4dac-b78d-37b8ea3612a1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>779b4705-635a-4c98-b7cc-adce6f30faa7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HealthProfessional_AddDietition</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>50b43153-bfa8-4bfe-adf1-c6c51aead032</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f766c60c-10be-4d69-bcf4-299d16b5070a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d2121694-188a-40ec-8731-36e07f6869b5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HealthProfessional_Edit_Dietition_Email</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4bdc5cf8-d18b-495a-a14d-b8bcda089002</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HealthProfessional_Edit_DietitionName</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b04de98c-5672-410c-8457-8988eb17100b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>37bb7984-37a3-49a8-be38-53f56f3d59ff</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2a11a5e3-d2fa-4db8-b058-9d8d2a54ca8e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HealthProfessional_AddHealthCoach</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>676c6dbd-c18e-4b6f-8675-b7717dd6e676</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>953fc840-26bb-4cf1-89fa-ad17833ea2d0</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>29dfd179-aa03-4075-98b2-9ed62738a661</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HealthProfessional_Edit_HealthCoach_Email</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>89eb1f78-ff12-4576-8ba2-144bd89695a5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HealthProfessional_Edit_HealthCoachName</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f534c779-617d-4d4f-b6e8-a2ba1090e124</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dc85c5d0-8e57-4f3d-97ad-5f2170d2084c</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>35d389a1-b259-4da6-8d99-9ae64006b6da</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Hospital Portal/SignOut</testCaseId>
+      <testCaseId>Test Cases/SignOut</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>

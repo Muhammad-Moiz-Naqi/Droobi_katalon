@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Dashboad_EditPatient</name>
+   <name>HealthProfessional_Edit_EducatorName</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>26c93c48-1645-4cb5-9967-ca46c72c2968</testCaseGuid>
+   <testCaseGuid>1df9e697-12ab-4a58-8304-cd8bdd1beb42</testCaseGuid>
    <variable>
       <defaultValue>'Dr. Zia'</defaultValue>
       <description></description>
-      <id>b1f466f6-ac78-435d-aa6b-38fe8a42168d</id>
+      <id>d0fffc48-ed26-45af-b93a-215fe31cc188</id>
       <masked>false</masked>
       <name>professional</name>
    </variable>
    <variable>
       <defaultValue>'Zia Haider'</defaultValue>
       <description></description>
-      <id>14c4be15-4cb9-45e7-aaf6-c24dca49426a</id>
+      <id>1267ee40-cdab-4dac-b78d-37b8ea3612a1</id>
       <masked>false</masked>
       <name>update_name</name>
    </variable>

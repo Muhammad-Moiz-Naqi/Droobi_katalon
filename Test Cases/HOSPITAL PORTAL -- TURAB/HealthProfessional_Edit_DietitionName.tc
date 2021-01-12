@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HealthProfessional_Edit_DietitionName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0e86685-7917-4713-b841-ce0f67d01c89</testCaseGuid>
+   <variable>
+      <defaultValue>'Dr. Zia'</defaultValue>
+      <description></description>
+      <id>b04de98c-5672-410c-8457-8988eb17100b</id>
+      <masked>false</masked>
+      <name>professional</name>
+   </variable>
+   <variable>
+      <defaultValue>'Zia Haider'</defaultValue>
+      <description></description>
+      <id>37bb7984-37a3-49a8-be38-53f56f3d59ff</id>
+      <masked>false</masked>
+      <name>update_name</name>
+   </variable>
+</TestCaseEntity>

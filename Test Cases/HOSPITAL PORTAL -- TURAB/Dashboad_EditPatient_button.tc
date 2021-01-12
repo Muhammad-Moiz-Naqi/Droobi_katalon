@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dashboad_EditPatient_button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26c93c48-1645-4cb5-9967-ca46c72c2968</testCaseGuid>
+   <variable>
+      <defaultValue>'Dr. Zia'</defaultValue>
+      <description></description>
+      <id>b1f466f6-ac78-435d-aa6b-38fe8a42168d</id>
+      <masked>false</masked>
+      <name>professional</name>
+   </variable>
+   <variable>
+      <defaultValue>'Zia Haider'</defaultValue>
+      <description></description>
+      <id>14c4be15-4cb9-45e7-aaf6-c24dca49426a</id>
+      <masked>false</masked>
+      <name>update_name</name>
+   </variable>
+</TestCaseEntity>
